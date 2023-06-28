@@ -2,6 +2,14 @@
 
 Blue Construction is a single-page construction company website designed to showcase their company's services, completed projects, and ongoing projects. This README file provides an overview of the project and instructions for setting it up locally or deploying it on a live server.
 
+## Technologies
+
+The website is built using the following technologies:
+
+- HTML
+- CSS
+- JavaScript
+
 ## Features
 
 1. **We Are Page:** Provides information about the construction company, including details about the founder and co-founder.
@@ -11,14 +19,6 @@ Blue Construction is a single-page construction company website designed to show
 3. **We Create Page:** Showcases a successfully completed projects and projects currently working.
 
 4. **Contact Page:** The contact page displays a form where users can enter their details and compose a message to be sent to the admin.
-
-## Technologies
-
-The website is built using the following technologies:
-
-- HTML
-- CSS
-- JavaScript
 
 ## Setup
 
@@ -53,7 +53,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or support regarding the website, please contact:
+For any inquiries or support regarding the Blue Construction website, please contact:
 
 **_John_**
 
