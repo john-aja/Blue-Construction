@@ -1,16 +1,16 @@
 # Blue Construction
 
-Blue Construction is a single-page construction company website designed to showcase our company's services, completed projects, and ongoing projects. This README file provides an overview of the project and instructions for setting it up locally or deploying it on a live server.
+Blue Construction is a single-page construction company website designed to showcase their company's services, completed projects, and ongoing projects. This README file provides an overview of the project and instructions for setting it up locally or deploying it on a live server.
 
 ## Features
 
-1. **About Page:** Provides information about our construction company, including details about the founder and co-founder.
+1. **We Are Page:** Provides information about the construction company, including details about the founder and co-founder.
 
-2. **Services Page:** Displays a list of services we offer, such as residential construction, commercial construction, remodeling, and more. Each service is described in detail.
+2. **We Do Page:** Displays a list of services offer, such as residential construction, commercial construction, remodeling, and more. Each service is described in detail.
 
-3. **Completed Projects Page:** Showcases a selection of our successfully completed projects, including descriptions, images, and testimonials from satisfied clients.
+3. **We Create Page:** Showcases a successfully completed projects and projects currently working.
 
-4. **Ongoing Projects Page:** Highlights the projects we are currently working on, giving visitors insight into our current initiatives and progress.
+4. **Contact Page:** The contact page displays a form where users can enter their details and compose a message to be sent to the admin.
 
 ## Technologies
 
