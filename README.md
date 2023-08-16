@@ -1,6 +1,10 @@
 # Blue Construction
 
+![blue-contruction-mock](https://github.com/john-aja/Blue-Construction/assets/95049418/7c99a7f0-8192-4afa-b6f5-e90e2d297aba)
+
 Blue Construction is a single-page construction company website designed to showcase their company's services, completed projects, and ongoing projects. This README file provides an overview of the project and instructions for setting it up locally or deploying it on a live server.
+
+To open the website in a browser, please click on the following link : https://blueconstruction.netlify.app/
 
 ## Technologies
 
